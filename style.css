@@ -1,4 +1,120 @@
-html {
-  height: 100%;
-  width: 100%;
+.cordefundo {
+background-color:#222;
+}
+
+.imagemakatsuki {
+    width:320px;
+    height:200px;
+    padding-left:24px;
+    
+}
+
+ul {
+    color:white;
+}
+
+p {
+    color:white;
+    padding:8px;
+    padding-top:0px;
+}
+
+h2 {
+    color:white;
+    
+}
+
+h1 {
+    color:red;
+    padding-left:28px;
+    
+    
+}
+
+hr {
+    color:white;
+}
+
+.titulo {
+    background-color:red;
+    color:white;
+    border-radius:100px;
+    text-align:center;
+    padding:5px;
+}
+
+.ninjas {
+    background-color:red;
+    text-align:center;
+    border-radius:100px;
+    font-family: Courier New;
+}
+
+.imagens {
+    padding-left:88px;
+}
+
+.imagens2 {
+    padding-left:98px;
+}
+
+.sasori {
+    padding-left:22px;
+}
+
+.imagens4 {
+    padding-left:98px;
+}
+
+.zetsu {
+    padding-left:98px;
+}
+
+.deidara {
+    padding-left:120px;
+}
+
+.konan {
+    padding-left:50px; 
+}
+
+.pain {
+    padding-left:99px; 
+}
+
+.hidan {
+    padding-left:50px;
+}
+
+.kakuzu {
+    padding-left:99px; 
+}
+
+.kabuto {
+    padding-left:69px;
+}
+
+.Sasuke {
+    padding-left:88px;
+}
+
+.taka {
+    padding-left:66px;
+}
+
+.Nagato {
+    padding-left:78px;     
+}
+
+
+.Yahiko {
+    padding-left:80px;    
+}
+
+.branco{
+    color:white;
+}
+
+.takaSuigetsu{
+    margin-left:50px;
 }
