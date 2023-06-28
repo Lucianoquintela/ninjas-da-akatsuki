@@ -118,3 +118,8 @@ hr {
 .takaSuigetsu{
     margin-left:50px;
 }
+
+img {
+  margin: auto;
+  display: block;
+}
